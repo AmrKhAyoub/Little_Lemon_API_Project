@@ -1,0 +1,39 @@
+SuperAdmin :
+------------
+username : master
+email : master@email.com
+pass : master123
+token : ee977120120f9aa2d20585fa6ea4c8ada0cee602
+------------
+<-- MANAGER -->
+------------
+username : gin
+email : gin@email.com
+pass : gin123pass
+token : 2798907d4744697c8c4bc1a11a2b58538f7bbb51
+------------
+username : rum
+email : rum@email.com
+pass : rum123pass
+token : 6ba1caf57cc1eaa969e8836b4e031a0c2b3c61d5
+------------
+<-- DELIVERY -->
+------------
+username : akai
+email : akai@email.com
+pass : akai123pass
+token : bfb7eebb4413def3ef33b9c231da02c3af06db2e
+------------
+<-- USER -->
+------------
+username : kudo
+email : kudo@email.com
+pass : kudo123pass
+token : b229e3a37e268d94233d2b9965381d91b871f1db
+------------
+username : ran
+email : ran@email.com
+pass : ran123pass
+token : b4650d7d4272d10cb0d4e37cd5fb69cbd2bcd69e
+
+  
